@@ -45,6 +45,7 @@ image-segmentation-clustering/
 ├── requirements.txt
 ├── README.md
 └── Project_Report.pdf
+```
 
 ---
 
