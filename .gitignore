@@ -1,12 +1,5 @@
 # .gitignore
 
-# Raw and processed data
-/data/*
-!data/.gitkeep     # (create an empty .gitkeep if you want to commit the folder structure)
-
-/results/*
-!results/.gitkeep
-
 # Python cache
 __pycache__/
 *.pyc
